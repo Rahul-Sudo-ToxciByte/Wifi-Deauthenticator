@@ -2,13 +2,13 @@
 Built with Passion and Learning New things.
 
 ## 📌 Tech Stack
-HTML , CSS, Python, Ardino uno, ESP32
+HTML, CSS, Python, Arduino Uno, ESP32
 
 ## Some Glimpse 🤩 :
 <table>
  <tr>
  <div align="center">
-  <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747296212/frljswpypwgs0rp1tsne.jpg" width="500"></td>
+  <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747317736/Github%20Project/y1n63wsryc1kgpzh5hiz.jpg" width="500"></td>
   <!-- <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747293525/nalenbpupbhhfldrkn2w.png" width="500"></td> -->
  </tr>
 </table>
